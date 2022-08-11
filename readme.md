@@ -1,7 +1,8 @@
 # Taller de Programación 2
 ## Links a las clases grabadas
-En los siguientes links podran ver las grabaciones de las clases en vivo:
-- [clase 1 - intro a herramientas de trabajo: vscode, nodejs, javascript, git, github](...)
+
+En la siguiente carpeta podran ver las grabaciones de las clases en vivo:
+- [link al drive](https://drive.google.com/drive/folders/19cRw7wOc4i1qdNNlKaYbpx66-UZy2NX-?usp=sharing)
 
 ## Material adicional
 #### Git
