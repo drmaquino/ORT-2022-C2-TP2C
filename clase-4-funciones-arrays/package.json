@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "name": "clase-3-pruebas",
+  "version": "1.0.0",
+  "description": "proyecto para practicar el uso de clases",
+  "main": "src/main.js",
+  "scripts": {
+    "comenzar": "node src/main.js",
+    "test": "mocha --recursive",
+    "tdd": "nodemon --exec mocha --recursive"
+  },
+  "author": "drmaquino",
+  "license": "ISC"
+}
