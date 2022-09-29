@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "clase-5-practica-tp-1",
+  "version": "1.0.0",
+  "description": "Realizar un pequeño sistema que permita registrar y consultar donaciones hechas a nuestra empresa.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "nodemon --exec mocha --recursive"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.10.0"
+  }
+}
