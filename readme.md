@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=Xb1pTP26WKo
 - Ago 24: testing con mocha
 - Ago 31: funciones, manejo de arrays
 
-- Set 7: casos de uso, api del negocio, enunciado 1ra entrega final -(modelo de negocio)
+- Set 7: casos de uso, api del negocio, enunciado 1ra entrega final (modelo de negocio)
 - Set 14: trabajo grupal en clase
 - Set 21: feriado
 - Set 28: 1ra entrega final - introduccion a mongodb
@@ -41,8 +41,8 @@ https://www.youtube.com/watch?v=Xb1pTP26WKo
 - Oct 12: patron repository, dao/dto, enunciado 2da entrega final (base de datos)
 - Oct 19: trabajo grupal en clase
 - Oct 26: 2da entrega final - introduccion a api rest, express, axios, thunder client
-- Oct 2:  express router, middleware, static - enunciado 3ra entrega final (servidor)
 
+- Nov 2:  express router, middleware, static - enunciado 3ra entrega final (servidor)
 - Nov 9:  trabajo grupal en clase
 - Nov 16: 3ra entrega final - discusiones en clase
 - Nov 23: recuperatorio entrega final - discusiones en clase
